@@ -1,2 +1,9 @@
-# jiqixuexi
-机器学习
+### 机器学习
+- code
+  - common.py-----------存储一些公共方法
+  - KNN.py-----------knn代码
+  - DecisionTree.py-----------决策树代码
+  - NavieBayes.py------------朴素贝叶斯代码
+  - SVM.py--------------支持向量机代码
+- dataset
+  - penguins_size.csv------------Kaggle下的帕尔默企鹅分类数据集
